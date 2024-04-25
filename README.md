@@ -1,16 +1,14 @@
-### Hi there 👋
+# About me
 
-<!--
-**AkzW21/AkzW21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Note: Our website is subject to processing payment of the license.
 
-Here are some ideas to get you started:
+I'm CEO of <a href="https://github.com/ssar-group">SSAR Group Global</a>. 
+I like video games, create, and working.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And we working on:
+* [RacesTelemetry](https://github.com/ssar-group/RacesTelemetry)
+* [TheWorld](https://ssar-group.com/project/TheWorld)
+* [Vecteur Anti-Cheat](https://product.ssar-group.com/vecteur)
+
+----
+<img src="https://github-readme-stats.vercel.app/api?username=AkzW21&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkzW21&layout=compact&hide_border=true">
